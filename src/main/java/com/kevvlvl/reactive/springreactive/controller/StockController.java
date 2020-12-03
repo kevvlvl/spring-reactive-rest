@@ -1,6 +1,5 @@
 package com.kevvlvl.reactive.springreactive.controller;
 
-import com.kevvlvl.reactive.springreactive.model.Product;
 import com.kevvlvl.reactive.springreactive.model.Stock;
 import org.reactivestreams.Publisher;
 import org.springframework.http.MediaType;
